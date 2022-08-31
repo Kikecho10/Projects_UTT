@@ -42,6 +42,7 @@
 - **Activité réalisée :** Création d'un projet autour de l'inclusivité des personnes dans les espaces
 - **Technologies utilisées :** Unity
 - **Lien utile :** https://github.com/Kikecho10/Projet_IF37_MobiliVRse , cliquable [ici](https://github.com/Kikecho10/Projet_IF37_MobiliVRse)
+- **Mahara du projet :** https://mahara.utt.fr/view/view.php?id=3593 , cliquable [ici](https://mahara.utt.fr/view/view.php?id=3593)
 
 ----
 
