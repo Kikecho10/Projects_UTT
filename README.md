@@ -27,7 +27,7 @@
 ----
 
 ### **LO07 : Technologies du web**
-- **Activité réalisée :** Gestion d'un centre de vaccination COVID-19
+- **Activité réalisée :** Gestion de centres de vaccination CODIV-19
 - **Technologies utilisées :**  PHP, Bootstrap 3, HTML5, MySQL, WAMP Server
 - **Lien utile :**  , cliquable [ici]()
 
