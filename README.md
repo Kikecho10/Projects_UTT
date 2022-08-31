@@ -13,14 +13,14 @@
 ### **NF05 : Introduction au langage C (Automne 2020)**
 - **Activité réalisée :** Algorithme de Cryptographie en C
 - **Technologies utilisées :** Langage C, Doxygen
-- **Lien utile :**  , cliquable [ici]()
+- **Lien utile :** https://github.com/Kikecho10/Projet_NF05_Cryptographie , cliquable [ici](https://github.com/Kikecho10/Projet_NF05_Cryptographie)
 
 ----
 
 ### **GL01 : Introduction au génie logiciel (Printemps 2021)**
 - **Activité réalisée :** Création d'un jeu vidéo
 - **Technologies utilisées :** Stencyl, Krita (graphismes), Trello
-- **Lien utile :**  , cliquable [ici]()
+- **Lien utile :** https://github.com/Kikecho10/Projet_GL01_Daidalos , cliquable [ici](https://github.com/Kikecho10/Projet_GL01_Daidalos)
 
 ----
 
