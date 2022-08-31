@@ -1,8 +1,6 @@
 # Projects_UTT_2019-2024
  
 
-*English version below*
-
 ----
 
 ### **MM01 : Multimédia : du projet à la réalisation (Printemps 2020)**
