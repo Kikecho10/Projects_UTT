@@ -55,7 +55,7 @@
 ### **LO02 : Principe et pratique de la programmation orientée objets (Automne 2021)**
 - **Activité réalisée :** Création d'un jeu de carte en Java
 - **Technologies utilisées :** Java, UML
-- **Lien utile :** hhttps://github.com/maxencejaulin/Projet_LO02_WitchHunt , cliquable [ici](https://github.com/maxencejaulin/Projet_LO02_WitchHunt)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_LO02_WitchHunt , cliquable [ici](https://github.com/maxencejaulin/Projet_LO02_WitchHunt)
 
 ----
 
