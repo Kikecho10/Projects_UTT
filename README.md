@@ -13,35 +13,35 @@
 ### **NF05 : Introduction au langage C (Automne 2020)**
 - **Activité réalisée :** Algorithme de Cryptographie en C
 - **Technologies utilisées :** Langage C, Doxygen
-- **Lien utile :** https://github.com/Kikecho10/Projet_NF05_Cryptographie , cliquable [ici](https://github.com/Kikecho10/Projet_NF05_Cryptographie)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_NF05_Cryptographie , cliquable [ici](https://github.com/maxencejaulin/Projet_NF05_Cryptographie)
 
 ----
 
 ### **GL01 : Introduction au génie logiciel (Printemps 2021)**
 - **Activité réalisée :** Création d'un jeu vidéo
 - **Technologies utilisées :** Stencyl, Krita (graphismes), Trello
-- **Lien utile :** https://github.com/Kikecho10/Projet_GL01_Daidalos , cliquable [ici](https://github.com/Kikecho10/Projet_GL01_Daidalos)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_GL01_Daidalos , cliquable [ici](https://github.com/maxencejaulin/Projet_GL01_Daidalos)
 
 ----
 
 ### **LO07 : Technologies du web (Printemps 2021)**
 - **Activité réalisée :** Projet Web PHP - Gestion de centres de vaccination CODIV-19
 - **Technologies utilisées :** PHP, Bootstrap 3, HTML5, MySQL, WAMP Server
-- **Lien utile :** https://github.com/Kikecho10/Projet_LO07_Gestion_Centres_Codiv-19 , cliquable [ici](https://github.com/Kikecho10/Projet_LO07_Gestion_Centres_Codiv-19)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_LO07_Gestion_Centres_Codiv-19 , cliquable [ici](https://github.com/maxencejaulin/Projet_LO07_Gestion_Centres_Codiv-19)
 
 ----
 
 ### **GL02 : Fondements de l'ingénierie logicielle (Automne 2021)**
 - **Activité réalisée :** Création d'une applet en Javascript
 - **Technologies utilisées :** Javascript, Caporal, Jasmine
-- **Lien utile :** https://github.com/Kikecho10/Projet_GL02_Parser , cliquable [ici](https://github.com/Kikecho10/Projet_GL02_Parser)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_GL02_Parser , cliquable [ici](https://github.com/maxencejaulin/Projet_GL02_Parser)
 
 ----
 
 ### **IF37 : Conception responsable de systèmes interactifs (Automne 2021)**
 - **Activité réalisée :** Création d'un projet autour de l'inclusivité des personnes dans les espaces
 - **Technologies utilisées :** Unity
-- **Lien utile :** https://github.com/Kikecho10/Projet_IF37_MobiliVRse , cliquable [ici](https://github.com/Kikecho10/Projet_IF37_MobiliVRse)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_IF37_MobiliVRse , cliquable [ici](https://github.com/maxencejaulin/Projet_IF37_MobiliVRse)
 - **Mahara du projet :** https://mahara.utt.fr/view/view.php?id=3593 , cliquable [ici](https://mahara.utt.fr/view/view.php?id=3593)
 
 ----
@@ -55,14 +55,14 @@
 ### **LO02 : Principe et pratique de la programmation orientée objets (Automne 2021)**
 - **Activité réalisée :** Création d'un jeu de carte en Java
 - **Technologies utilisées :** Java, UML
-- **Lien utile :** https://github.com/Kikecho10/Projet_LO02_WitchHunt , cliquable [ici](https://github.com/Kikecho10/Projet_LO02_WitchHunt)
+- **Lien utile :** hhttps://github.com/maxencejaulin/Projet_LO02_WitchHunt , cliquable [ici](https://github.com/maxencejaulin/Projet_LO02_WitchHunt)
 
 ----
 
 ### **IF29 : Traitement de données (Data Analytics) (Printemps 2022)**
 - **Activité réalisée :** Classification de profils Twitter
 - **Technologies utilisées :** Machine Learning, MongoDB, Kmeans, SVM, ACP
-- **Lien utile :** https://github.com/Kikecho10/Projet_IF29_Classification_de_Profils_de_Twitter , cliquable [ici](https://github.com/Kikecho10/Projet_IF29_Classification_de_Profils_de_Twitter)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_IF29_Classification_de_Profils_de_Twitter , cliquable [ici](https://github.com/maxencejaulin/Projet_IF29_Classification_de_Profils_de_Twitter)
 
 ----
 
