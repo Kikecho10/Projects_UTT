@@ -1,6 +1,5 @@
 # Projects UTT 2019-2024
  
-
 ----
 
 ### **MM01 : Multimédia : du projet à la réalisation (Printemps 2020)**
@@ -46,12 +45,6 @@
 
 ----
 
-### **IF14 : Analyse du Système d'Information (Automne 2021)**
-- **Activité réalisée :** Analyse organisationnelle d'une entreprise
-- **Technologies utilisées :** UML
-
-----
-
 ### **LO02 : Principe et pratique de la programmation orientée objets (Automne 2021)**
 - **Activité réalisée :** Création d'un jeu de carte en Java
 - **Technologies utilisées :** Java, UML
@@ -65,6 +58,11 @@
 - **Lien utile :** https://github.com/maxencejaulin/Projet_IF29_Classification_de_Profils_de_Twitter , cliquable [ici](https://github.com/maxencejaulin/Projet_IF29_Classification_de_Profils_de_Twitter)
 
 ----
+
+### **GS15 : Cryptographie et signature électronique (Autonomne 2023)**
+- **Activité réalisée :** Mini PKI (Public Key Infrastructure)
+- **Technologies utilisées :** Python
+- **Lien utile :** https://github.com/maxencejaulin/Projet_GS15_pki , cliquable [ici](https://github.com/maxencejaulin/Projet_GS15_pki)
 
 ----
 
