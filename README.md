@@ -59,7 +59,7 @@
 
 ----
 
-### **GS15 : Cryptographie et signature électronique (Autonomne 2023)**
+### **GS15 : Cryptographie et signature électronique (Automne 2023)**
 - **Activité réalisée :** Mini PKI (Public Key Infrastructure)
 - **Technologies utilisées :** Python
 - **Lien utile :** https://github.com/maxencejaulin/Projet_GS15_pki , cliquable [ici](https://github.com/maxencejaulin/Projet_GS15_pki)
