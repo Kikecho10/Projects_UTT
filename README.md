@@ -5,7 +5,7 @@
 ### **MM01 : Multimédia : du projet à la réalisation (Printemps 2020)**
 - **Activité réalisée :** Création d'un site web
 - **Technologies utilisées :** HTML5, CSS3, GanttProject, AxureRP, Canva, Gimp
-- **Lien utile :** https://github.com/maxencejaulin/Projet_MM01_You, cliquable [ici](https://github.com/maxencejaulin/Projet_MM01_You)
+- **Lien utile :** https://github.com/maxencejaulin/Projet_MM01_You , cliquable [ici](https://github.com/maxencejaulin/Projet_MM01_You)
 
 ----
 
