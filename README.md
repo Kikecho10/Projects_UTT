@@ -66,6 +66,19 @@
 
 ----
 
+### **IF27 : Sécurité des données et des services (Printemps 2024)**
+- **Activité réalisée :** Compromission Active Directory
+- **Technologies utilisées :** KaliLinux, Modules de tests d'intrusion
+- **Lien utile :** https://github.com/maxencejaulin/Projet_IF27_Compromission_Active_Directory , cliquable [ici](https://github.com/maxencejaulin/Projet_IF27_Compromission_Active_Directory)
+
+----
+
+### **IF36 : Conception de visualisations de données (Printemps 2024)**
+- **Activité réalisée :** Recherche exploratoire sur des données de la SNCF
+- **Technologies utilisées :** R
+- **Lien utile :** 
+
+----
 
 
 
