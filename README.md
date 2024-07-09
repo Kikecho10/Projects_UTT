@@ -76,7 +76,8 @@
 ### **IF36 : Conception de visualisations de données (Printemps 2024)**
 - **Activité réalisée :** Recherche exploratoire sur des données de la SNCF
 - **Technologies utilisées :** R
-- **Lien utile :** 
+- **Lien utile :** https://github.com/maxencejaulin/Projet_IF36_Analyse_Exploratoire_SNCF , cliquable [ici](https://github.com/maxencejaulin/Projet_IF36_Analyse_Exploratoire_SNCF)
+- **Lien du cours :** https://if36.dataframe.fr/
 
 ----
 
