@@ -79,7 +79,4 @@
 - **Lien utile :** https://github.com/maxencejaulin/Projet_IF36_Analyse_Exploratoire_SNCF , cliquable [ici](https://github.com/maxencejaulin/Projet_IF36_Analyse_Exploratoire_SNCF)
 - **Lien du cours :** https://if36.dataframe.fr/
 
-----
-
-
 
